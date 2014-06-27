@@ -49,10 +49,9 @@ static const u_char t03_head3[] = ""
 ;
 static const u_char t04_body1[] = ""
 "<body>"
-"<h1>Index of "
+"\n"
 ;
 static const u_char t05_body2[] = ""
-"</h1>"
 "\n"
 ;
 static const u_char t06_list1[] = ""
